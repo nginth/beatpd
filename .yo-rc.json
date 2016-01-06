@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "beatpd",
+    "style": "css",
+    "postcss": true
+  }
+}
